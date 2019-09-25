@@ -2,4 +2,4 @@ chicken
 pizza
 rice
 pretzels
-ham
+eggs
