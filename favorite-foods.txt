@@ -3,3 +3,5 @@ pizza
 rice
 pretzels
 eggs
+waffles
+sunflower seeds
